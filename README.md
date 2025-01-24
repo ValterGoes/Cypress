@@ -10,3 +10,7 @@ npm install cypress -D
 npx cypress open
 
 E2E Testing
+
+### Teste em background
+
+npx cypress run
