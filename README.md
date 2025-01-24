@@ -1,6 +1,8 @@
 # Cypress
 
-Iniciando os estudos do  Cypress
+# Iniciando os estudos do  Cypress
+
+## inicialização do Cypress
 
 npm init
 
